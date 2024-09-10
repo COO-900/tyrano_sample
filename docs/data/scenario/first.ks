@@ -1,6 +1,6 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="走るか寝るかするメロス!!!"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
@@ -24,7 +24,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=sleep_dog.jpg time=500]
 
 メロスは死んだように深く眠った。[l][r]
 勇者は、ひどく赤面した。[r]
@@ -35,7 +35,7 @@
 
 *tag_run
 
-[bg storage=run.jpg time=500]
+[bg storage=run_dog.jpg time=500]
 
 [cm]
 メロスは黒い風のように走った。[l][r]
